@@ -1,0 +1,29 @@
+{
+	"the-shawshank-redemption-(1994) 2023-08-18 04:24:26.701 UTC iohfr": {
+		"type": "entry",
+		"member": "iohfr",
+		"entryDate": "2023-08-18 04:24:26.701 UTC",
+		"film": "the-shawshank-redemption-(1994)",
+		"rating": 3.5,
+		"review": "It's not as good as Gooby.",
+		"watchDate": "2021-02-09",
+		"rewatch": true,
+		"tags": [
+			"prison",
+			"escape",
+			"hope"
+		]
+	},
+
+	"pulp-fiction-(1994) 2023-08-18 04:24:26.701 UTC iohfr": {
+		"type": "entry",
+		"member": "iohfr",
+		"entryDate": "2023-08-18 04:24:26.701 UTC",
+		"film": "pulp-fiction-(1994)",
+		"rating": 4.5,
+		"review": "Great film!",
+		"watchDate": "2020-01-01",
+		"rewatch": false,
+		"tags": []
+	}
+}

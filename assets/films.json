@@ -1,0 +1,21 @@
+{
+    "everything-everywhere-all-at-once-(2022)": {
+        "type": "film",
+        "title": "Everything Everywhere All at Once",
+        "year": 2022,
+        "director": "Daniel Scheinert",
+        "ratings": {},
+        "averageRating": null
+    },
+
+    "promising-young-woman-(2020)": {
+        "type": "film",
+        "title": "Promising Young Woman",
+        "year": 2020,
+        "director": "Emerald Fennell",
+        "ratings": {
+            "thecpmills": 5
+        },
+        "averageRating": 3.7
+    }
+}

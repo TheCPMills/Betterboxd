@@ -1,0 +1,32 @@
+{
+    "the-godfather-(1972) 2022-10-25 13:30:00.000 UTC thecpmills": {
+        "type": "entry",
+        "member": "thecpmills",
+        "entryDate": "2022-10-25 13:30:00.000 UTC",
+        "film": "the-godfather-(1972)",
+        "rating": null,
+        "review": "It was alright.",
+        "watchDate": "2022-10-25",
+        "rewatch": false,
+        "tags": [
+            "mafia",
+            "italy"
+        ]
+    },
+    
+    "promising-young-woman-(2020) 2021-02-28 13:30:00.000 UTC thecpmills": {
+        "type": "entry",
+        "member": "thecpmills",
+        "entryDate": "2021-02-28 13:30:00.000 UTC",
+        "film": "promising-young-woman-(2020)",
+        "rating": 4.5,
+        "review": "I really enjoyed this film. It was a great story and the acting was superb. I would definitely recommend it.",
+        "watchDate": null,
+        "rewatch": true,
+        "tags": [
+            "thriller",
+            "crime",
+            "drama"
+        ]
+    }
+}

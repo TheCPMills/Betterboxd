@@ -1,0 +1,37 @@
+{
+	"the-shawshank-redemption-(1994)": {
+		"type": "film",
+		"title": "The Shawshank Redemption",
+		"year": 1994,
+		"director": "Frank Darabont",
+		"ratings": {},
+		"averageRating": null
+	},
+
+	"the-dark-knight-(2008)": {
+		"type": "film",
+		"title": "The Dark Knight",
+		"year": 2008,
+		"director": "Christopher Nolan",
+		"ratings": {},
+		"averageRating": null
+	},
+
+	"the-godfather-(1972)": {
+		"type": "film",
+		"title": "The Godfather",
+		"year": 1972,
+		"director": "Francis Ford Coppola",
+		"ratings": {},
+		"averageRating": null
+	},
+
+	"pulp-fiction-(1994)": {
+		"type": "film",
+		"title": "Pulp Fiction",
+		"year": 1994,
+		"director": "Quentin Tarantino",
+		"ratings": {},
+		"averageRating": null
+	}
+}
